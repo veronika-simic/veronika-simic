@@ -1,11 +1,17 @@
 ![Veronika's GitHub Banner](./assets/banner.jpg)
 
-Hey there, fellow developers! It's me, Veronika, junior full stack developer ,with background in chemical engineering, who loves the world of Node.js. With keyboard as my weapon of choice, I slay bugs and craft impeccable web applications with finesse. 
+Hey there, fellow developers! :wave: 
+
+It's me, Veronika, junior full stack developer :woman_technologist:, with background in chemical engineering, who loves the world of coding. 
+With keyboard :keyboard: as my weapon of choice, I slay bugs :lady_beetle: and craft impeccable web applications with finesse. 
 
 I enjoy working with React and Express, exploring the world of coding, and writing about it on dev.to. :pencil2: 
 
-In my free time, I enjoy bodybuilding :weight_lifting: and cycling :bicyclist:, feeling the wind in my hair and exploring new places. So, if you're ready to team up with a developer who's got skills, hit me up on GitHub and let's create some amazing projects together!
+In my free time, I enjoy bodybuilding :weight_lifting: and cycling :bicyclist:, as well as walking my furry friend :dog:.
 
+If you're ready to team up with a developer who's got skills, hit me up on GitHub and let's create some amazing projects together!
+
+P.S. I have nothing personal againts bugs in reall life :bug: :cricket:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/veronika-s-662355211/) 
